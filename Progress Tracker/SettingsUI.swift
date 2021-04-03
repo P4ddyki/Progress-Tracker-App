@@ -98,7 +98,7 @@ struct SettingsUI: View {
                                     .font(.title2)
                                     .textFieldStyle(RoundedBorderTextFieldStyle())
                                 Button(action: {
-                                    WorkArray = ""
+                                    WorkArray = "0"
                                     SteppervalueWork = 0
                                     nameOne = ""
                                 }, label: {
@@ -127,7 +127,7 @@ struct SettingsUI: View {
                                     .font(.title2)
                                     .textFieldStyle(RoundedBorderTextFieldStyle())
                                 Button(action: {
-                                    WorkLearn = ""
+                                    WorkLearn = "0"
                                     SteppervalueLearn = 0
                                     nameTwo = ""
                                 }, label: {
@@ -156,7 +156,7 @@ struct SettingsUI: View {
                                     .font(.title2)
                                     .textFieldStyle(RoundedBorderTextFieldStyle())
                                 Button(action: {
-                                    WorkHouse = ""
+                                    WorkHouse = "0"
                                     SteppervalueHousWork = 0
                                     nameThree = ""
                                 }, label: {
@@ -185,7 +185,7 @@ struct SettingsUI: View {
                                     .font(.title2)
                                     .textFieldStyle(RoundedBorderTextFieldStyle())
                                 Button(action: {
-                                    WorkCreative = ""
+                                    WorkCreative = "0"
                                     SteppervalueCreative = 0
                                     nameFour = ""
                                 }, label: {
@@ -214,7 +214,7 @@ struct SettingsUI: View {
                                     .font(.title2)
                                     .textFieldStyle(RoundedBorderTextFieldStyle())
                                 Button(action: {
-                                    WorkRead = ""
+                                    WorkRead = "0"
                                     SteppervalueRead = 0
                                     nameFive = ""
                                 }, label: {
@@ -243,7 +243,7 @@ struct SettingsUI: View {
                                     .font(.title2)
                                     .textFieldStyle(RoundedBorderTextFieldStyle())
                                 Button(action: {
-                                    WorkInstrument = ""
+                                    WorkInstrument = "0"
                                     SteppervalueInstrument = 0
                                     nameSix = ""
                                 }, label: {
@@ -272,7 +272,7 @@ struct SettingsUI: View {
                                     .font(.title2)
                                     .textFieldStyle(RoundedBorderTextFieldStyle())
                                 Button(action: {
-                                    WorkSport = ""
+                                    WorkSport = "0"
                                     SteppervalueSport = 0
                                     nameSeven = ""
                                 }, label: {
@@ -301,7 +301,7 @@ struct SettingsUI: View {
                                     .font(.title2)
                                     .textFieldStyle(RoundedBorderTextFieldStyle())
                                 Button(action: {
-                                    WorkMoney = ""
+                                    WorkMoney = "0"
                                     SteppervalueMoney = 0
                                     nameEight = ""
                                 }, label: {
@@ -330,7 +330,7 @@ struct SettingsUI: View {
                                     .font(.title2)
                                     .textFieldStyle(RoundedBorderTextFieldStyle())
                                 Button(action: {
-                                    ArrayNine = ""
+                                    ArrayNine = "0"
                                     SteppervalueNine = 0
                                     nameNine = ""
                                 }, label: {
@@ -361,7 +361,7 @@ struct SettingsUI: View {
                                         .font(.title2)
                                         .textFieldStyle(RoundedBorderTextFieldStyle())
                                     Button(action: {
-                                        ArrayTen = ""
+                                        ArrayTen = "0"
                                         SteppervalueTen = 0
                                         nameTen = ""
                                     }, label: {
